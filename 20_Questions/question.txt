@@ -1,0 +1,10 @@
+Q:
+Does it use service?
+A:
+phone
+Q:
+is it an animal?
+A:
+dog
+A:
+computer
